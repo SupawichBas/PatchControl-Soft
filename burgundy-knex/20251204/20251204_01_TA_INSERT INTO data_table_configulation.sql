@@ -1,0 +1,9 @@
+INSERT INTO data_table_configulation
+(company_code, table_name, column_name, column_label, "column_type", column_custom, column_align, column_sequence, header_align, "filter_type", filter_api, sort, display, active, created_by, created_date, created_program, updated_by, updated_date, updated_program)
+VALUES('KNEX', 'TripMyDocument', 'workPerformance', 'label.SMTADT01.WorkPerformance', 'Text'::dbo."column_type", NULL, 'text-start', 120, 'text-center', 'Radio'::dbo."filter_type", 'WorkPerformanceList', true, true, true, 'Procedure_Copy', '2025-04-01 16:10:31.011', 'Procedure_Copy', NULL, NULL, NULL);
+INSERT INTO data_table_configulation
+(company_code, table_name, column_name, column_label, "column_type", column_custom, column_align, column_sequence, header_align, "filter_type", filter_api, sort, display, active, created_by, created_date, created_program, updated_by, updated_date, updated_program)
+VALUES('KNEX', 'TripForApprove', 'workPerformance', 'label.SMTADT01.WorkPerformance', 'Text'::dbo."column_type", NULL, 'text-start', 120, 'text-center', 'Radio'::dbo."filter_type", 'WorkPerformanceList', true, true, true, 'Procedure_Copy', '2025-04-01 16:10:31.011', 'Procedure_Copy', NULL, NULL, NULL);
+INSERT INTO data_table_configulation
+(company_code, table_name, column_name, column_label, "column_type", column_custom, column_align, column_sequence, header_align, "filter_type", filter_api, sort, display, active, created_by, created_date, created_program, updated_by, updated_date, updated_program)
+VALUES('KNEX', 'TripAllTrip', 'workPerformance', 'label.SMTADT01.WorkPerformance', 'Text'::dbo."column_type", NULL, 'text-start', 120, 'text-center', 'Radio'::dbo."filter_type", 'WorkPerformanceList', true, true, true, 'Procedure_Copy', '2025-04-01 16:10:31.011', 'Procedure_Copy', NULL, NULL, NULL);

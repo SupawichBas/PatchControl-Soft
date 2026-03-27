@@ -1,0 +1,2 @@
+DELETE FROM su_menu
+WHERE menu_code='3005PO100070';

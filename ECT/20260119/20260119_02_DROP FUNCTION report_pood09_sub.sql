@@ -1,0 +1,49 @@
+DROP FUNCTION erp.report_pood09_sub(varchar, int4);
+
+CREATE OR REPLACE FUNCTION erp.report_pood09_sub(p_lin_id character varying, p_receive_master_id integer)
+ RETURNS TABLE(goods_receipt_committee boolean, sign1 character varying, committee_name character varying, committee_type_name character varying, committee_position character varying, url character varying)
+ LANGUAGE plpgsql
+AS $function$
+BEGIN
+    RETURN QUERY
+    SELECT 
+        pct.goods_receipt_committee::boolean AS goods_receipt_committee,
+        concat('( ลงชื่อ )')::character varying AS sign1,
+        de2.emp_name::character varying AS committee_name,
+        dlvl.value_text::character varying AS committee_type_name,
+        de2.position_name::character varying AS committee_position,
+        CASE 
+            WHEN de2.personal_id IS NOT NULL AND de2.signature_image_id IS NOT NULL and prm.status IN ('A','E')
+            THEN concat(
+                (SELECT sp.parameter_value  
+                 FROM su_parameter sp 
+                 WHERE sp.parameter_group_code = 'ContentPath'
+                 AND sp.parameter_code = 'SignatureURL'),
+                '?PersonalId=',de2.personal_id,'&ContentId=',de2.signature_image_id
+            )
+            ELSE NULL 
+        END::character varying AS url
+    FROM po_receive_master prm 
+    JOIN po_committee_master a 
+        ON a.company_code = prm.company_code 
+    JOIN po_committee_detail b 
+        ON b.committee_master_id = a.committee_master_id
+    LEFT JOIN db_employee_name(p_lin_id) de2 
+        ON de2.emp_id = b.committee_id
+    JOIN po_committee_type pct 
+        ON pct.committee_type_id = a.committee_type_id 
+    LEFT JOIN po_committee_type_lang pctl 
+        ON pctl.committee_type_id = pct.committee_type_id 
+        AND lower(pctl.language_code) = lower(p_lin_id)
+    JOIN db_list_value_lang dlvl 
+        ON dlvl.group_code = 'CommitteeDetailPosi'
+        AND lower(dlvl.language_code) = lower(p_lin_id)
+        AND dlvl.value = b.committee_posi 
+    AND a.doc_type = prm.pr_type  
+    AND a.doc_no = prm.pr_no 
+    WHERE prm.receive_master_id = p_receive_master_id
+      AND coalesce(pct.goods_receipt_committee,false) = TRUE
+    ORDER BY b.ord_seq;
+END;
+$function$
+;

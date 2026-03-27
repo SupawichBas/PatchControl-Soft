@@ -1,0 +1,11 @@
+ALTER TABLE SrcDocumentParticipants ADD BU1ID nvarchar(20) NULL;
+ALTER TABLE SrcDocumentParticipants ADD BU2ID nvarchar(20) NULL;
+ALTER TABLE SrcDocumentParticipants ADD BU3ID nvarchar(20) NULL;
+ALTER TABLE SrcDocumentParticipants ADD BU4ID nvarchar(20) NULL;
+ALTER TABLE SrcDocumentParticipants ADD BU5ID nvarchar(20) NULL;
+ALTER TABLE SrcDocumentParticipants ADD BU6ID nvarchar(20) NULL;
+ALTER TABLE SrcDocumentParticipants ADD BU7ID nvarchar(20) NULL;
+ALTER TABLE SrcDocumentParticipants ADD BU8ID nvarchar(20) NULL;
+ALTER TABLE SrcDocumentParticipants ADD BU9ID nvarchar(20) NULL;
+ALTER TABLE SrcDocumentParticipants ADD BU10ID nvarchar(20) NULL;
+ALTER TABLE SrcDocumentParticipants ADD EmpLevel nvarchar(20) NULL;

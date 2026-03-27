@@ -1,0 +1,27 @@
+INSERT INTO su_program_label
+(program_code, field_name, language_code, label_name, system_code, module_code, created_by, created_date, created_program, updated_by, updated_date, updated_program)
+VALUES('SMDBRT19', 'DefaultApproval', 'EN', 'Default Approval line', 'DB', 'EXP', 'Script', current_timestamp, 'Migrate', NULL, NULL, NULL);
+INSERT INTO su_program_label
+(program_code, field_name, language_code, label_name, system_code, module_code, created_by, created_date, created_program, updated_by, updated_date, updated_program)
+VALUES('SMDBRT19', 'DefaultApproval', 'TH', 'ข้อมูลสายอนุมัติเพิ่มเติม', 'DB', 'EXP', 'Script', current_timestamp, 'Migrate', NULL, NULL, NULL);
+
+INSERT INTO su_program_label
+(program_code, field_name, language_code, label_name, system_code, module_code, created_by, created_date, created_program, updated_by, updated_date, updated_program)
+VALUES('SMDBRT19', 'DisDefaultApproval', 'EN', 'Set Default Approval line', 'DB', 'EXP', 'Script', current_timestamp, 'Migrate', NULL, NULL, NULL);
+INSERT INTO su_program_label
+(program_code, field_name, language_code, label_name, system_code, module_code, created_by, created_date, created_program, updated_by, updated_date, updated_program)
+VALUES('SMDBRT19', 'DisDefaultApproval', 'TH', 'ตั้งต่ากำหนดข้อมูลสายอนุมัติเพิ่มเติม', 'DB', 'EXP', 'Script', current_timestamp, 'Migrate', NULL, NULL, NULL);
+
+INSERT INTO su_program_label
+(program_code, field_name, language_code, label_name, system_code, module_code, created_by, created_date, created_program, updated_by, updated_date, updated_program)
+VALUES('SMDBRT19', 'Employee', 'EN', 'Employee', 'DB', 'EXP', 'Script', current_timestamp, 'Migrate', NULL, NULL, NULL);
+INSERT INTO su_program_label
+(program_code, field_name, language_code, label_name, system_code, module_code, created_by, created_date, created_program, updated_by, updated_date, updated_program)
+VALUES('SMDBRT19', 'Employee', 'TH', 'พนักงาน', 'DB', 'EXP', 'Script', current_timestamp, 'Migrate', NULL, NULL, NULL);
+
+INSERT INTO su_program_label
+(program_code, field_name, language_code, label_name, system_code, module_code, created_by, created_date, created_program, updated_by, updated_date, updated_program)
+VALUES('SMDBRT19', 'AddDefaultApproval', 'EN', 'Add Default Approval', 'DB', 'EXP', 'Script', current_timestamp, 'Migrate', NULL, NULL, NULL);
+INSERT INTO su_program_label
+(program_code, field_name, language_code, label_name, system_code, module_code, created_by, created_date, created_program, updated_by, updated_date, updated_program)
+VALUES('SMDBRT19', 'AddDefaultApproval', 'TH', 'เพิ่มสายอนุมัติเพิ่มเติม', 'DB', 'EXP', 'Script', current_timestamp, 'Migrate', NULL, NULL, NULL);
