@@ -1,0 +1,2367 @@
+{
+    "burgundy-knex\\20250826\\20250826_00_function_get_exists_on_report.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "burgundy-knex\\20250826\\20250826_01_function_report_smavrp01.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "burgundy-knex\\20250826\\20250826_02_function_report_smavrp01_excel.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "burgundy-knex\\20250826\\20250826_03_function_report_smavrp02.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "burgundy-knex\\20250826\\20250826_04_function_report_smavrp02_sub.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "burgundy-knex\\20250826\\20250826_05_function_report_smavrp03.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "burgundy-knex\\20250826\\20250826_06_function_report_smexrp01.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "burgundy-knex\\20250826\\20250826_07_function_report_smexrp02.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "burgundy-knex\\20250826\\20250826_08_function_report_smprqrp01.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "burgundy-knex\\20250826\\20250826_09_function_report_smprqrp02.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "burgundy-knex\\20250826\\20250826_10_function_report_smsumrp05.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "burgundy-knex\\20250826\\20250826_11_function_report_smsumrp06.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "burgundy-knex\\20250826\\20250826_12_function_report_smsumrp07.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "burgundy-knex\\20250826\\20250826_13_function_report_smsumrp08.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "burgundy-knex\\20250826\\20250826_14_function_report_smexallrp.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "burgundy-knex\\20250827\\20250827_00_ALTER_TABLE_ta_document_traveller.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "burgundy-knex\\20250827\\20250827_01_su_program_label_TADT02.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "burgundy-knex\\20250827\\20250827_02_su_system_configuration_NavigateReport.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "burgundy-knex\\20250829\\20250829_00_report_smavrp03;.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "burgundy-knex\\20250829\\20250829_01_su_report_label_SMEXRP02.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "burgundy-knex\\20250829\\20250829_02_report_smexrp01.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "burgundy-knex\\20250901\\20250901_00_CREATE TABLE report_income_expense.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "burgundy-knex\\20250901\\20250901_01_CREATE TABLE report_income_expense_lang.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "burgundy-knex\\20250901\\20250901_02_INSERT INTO report_income_expense.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "burgundy-knex\\20250901\\20250901_03_INSERT INTO report_income_expense_lang.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "burgundy-knex\\20250901\\20250901_04_get_db_income_expense_group_lang.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "burgundy-knex\\20250901\\20250901_05_get_expense_amount.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "burgundy-knex\\20250903\\20250903_00_report_smavrp01.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "burgundy-knex\\20250903\\20250903_01_report_smavrp01_excel.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "burgundy-knex\\20250903\\20250903_02_report_smavrp02.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "burgundy-knex\\20250903\\20250903_03_report_smavrp02_sub.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "burgundy-knex\\20250903\\20250903_04_report_smavrp03.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "burgundy-knex\\20250903\\20250903_05_report_smavrp03_excel.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "burgundy-knex\\20250903\\20250903_06_report_smavrp03_sub2.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "burgundy-knex\\20250903\\20250903_07_report_smexrp01.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "burgundy-knex\\20250903\\20250903_08_report_smexrp02.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "burgundy-knex\\20250903\\20250903_09_report_smexrp02_sub.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "burgundy-knex\\20250904\\20250904_00_CREATE TABLE db_cost_center_default_approval.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "burgundy-knex\\20250904\\20250904_01_su_program_label_SMDBRT19.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "burgundy-knex\\20250904\\20250904_02_report_smpcod02.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "burgundy-knex\\20250904\\20250904_03_su_report_label_SMPCOD06_SMPCOD08.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "burgundy-knex\\20250910\\20250910_00_UPDATE_db_list_value_TravelBy_Seq.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "burgundy-knex\\20250910\\20250910_01_db_list_value_TravelBy.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "burgundy-knex\\20250916\\20250916_00_alter_tabel_ta_document.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "burgundy-knex\\20250924\\20250924_01_update program name smdbrt19.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "burgundy-knex\\20250924\\20250924_02_insert label smdbrt11.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "burgundy-knex\\20251029\\20251029_01_cancelflightandcancelhotel TA.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "burgundy-knex\\20251121\\20251121_01_ALTER TABLE dbo.ta_document ADD work_performance.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "burgundy-knex\\20251121\\20251121_02_CREATE TABLE dbo work_flow_attachment_for_hr.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "burgundy-knex\\20251124\\20251124_01_INSERT INTO su_program_label.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "burgundy-knex\\20251124\\20251124_02_INSERT INTO data_table_configulation.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "burgundy-knex\\20251124\\20251124_03_INSERT INTO su_message.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "burgundy-knex\\20251124\\20251124_04_INSERT INTO db_list_group.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "burgundy-knex\\20251126\\20251126_01_INSERT INTO su_program_label_ConfirmSaveAndSendEmail.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "burgundy-knex\\20251128\\20251128_01_เพิ่มสิทธิการใช้งาน_กำหนดข้อมูลธนาคาร และสาขา_INSERT INTO su_profile_menu.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "burgundy-knex\\20251128\\20251128_02_เพิ่มสิทธิการใช้งาน กำหนดข้อมูลธนาคาร และสาขา_INSERT INTO su_system_configuration.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "burgundy-knex\\20251204\\20251204_01_TA_INSERT INTO data_table_configulation.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": false
+    },
+    "burgundy-knex\\20260213\\20260213_01_INSERT INTO data_table_configulation.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": false
+    },
+    "burgundy-knex\\20260213\\20260213_02_INSERT INTO su_program_label.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": false
+    },
+    "burgundy-knex\\20260213\\20260213_03_INSERT INTO db_list_group.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": false
+    },
+    "burgundy-knex\\20260213\\20260213_04_INSERT INTO db_list_value.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": false
+    },
+    "burgundy-knex\\20260213\\20260213_05_INSERT INTO db_list_value_lang.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": false
+    },
+    "burgundy-knex\\20260316\\20260316_01_report_smexallrp.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": false
+    },
+    "burgundy-knex\\20260316\\20260316_02_report_smexod02_sub.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": false
+    },
+    "burgundy-knex\\20260316\\20260316_03_report_smexod03_sub1.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": false
+    },
+    "burgundy-knex\\20260316\\20260316_04_report_smexod03_sub2.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": false
+    },
+    "burgundy-knex\\20260316\\20260316_05_report_smexod03_sub3.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": false
+    },
+    "burgundy-knex\\20260316\\20260316_06_report_smpcod04_sub1.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": false
+    },
+    "burgundy-knex\\20260316\\20260316_07_report_smpcod04_sub2.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": false
+    },
+    "burgundy-knex\\20260316\\20260316_08_report_smprqod02.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": false
+    },
+    "burgundy-knex\\20260317\\20260317_01_report_smprqrp01.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": false
+    },
+    "burgundy-knex\\20260317\\20260317_02_report_smprqrp02.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": false
+    },
+    "burgundy-knex\\20260403\\20260403_01_report_smpcod08_sub2.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": false
+    },
+    "burgundy-knex\\20260508\\20260508_01_UPDATE data_table_configulation.sql": {
+        "dev": true,
+        "uat": false,
+        "prod": true
+    },
+    "burgundy-std\\20251113\\20251113_01_CREATE report_income_expense.sql": {
+        "dev": false,
+        "uat": true,
+        "prod": true
+    },
+    "burgundy-std\\20251113\\20251113_02_drop function get_db_income_expense_grou.sql": {
+        "dev": false,
+        "uat": true,
+        "prod": true
+    },
+    "burgundy-std\\20251113\\20251113_03_drop function get_expense_amount;.sql": {
+        "dev": false,
+        "uat": true,
+        "prod": true
+    },
+    "burgundy-std\\20251114\\20251114_01_INSERT AS SELECT report_income_expense.sql": {
+        "dev": false,
+        "uat": true,
+        "prod": true
+    },
+    "burgundy-std\\20260316\\20260316_01_report_smexallrp.sql": {
+        "dev": false,
+        "uat": true,
+        "prod": true
+    },
+    "burgundy-std\\20260316\\20260316_02_report_smprqod02.sql": {
+        "dev": false,
+        "uat": true,
+        "prod": true
+    },
+    "burgundy-std\\20260316\\20260316_03_report_smexod02_sub.sql": {
+        "dev": false,
+        "uat": true,
+        "prod": true
+    },
+    "burgundy-std\\20260316\\20260316_04_report_smexod03_sub1.sql": {
+        "dev": false,
+        "uat": true,
+        "prod": true
+    },
+    "burgundy-std\\20260316\\20260316_05_report_smexod03_sub2.sql": {
+        "dev": false,
+        "uat": true,
+        "prod": true
+    },
+    "burgundy-std\\20260316\\20260316_06_report_smexod03_sub3.sql": {
+        "dev": false,
+        "uat": true,
+        "prod": true
+    },
+    "burgundy-std\\20260316\\20260316_07_report_smpcod04_sub1.sql": {
+        "dev": false,
+        "uat": true,
+        "prod": true
+    },
+    "burgundy-std\\20260316\\20260316_08_report_smpcod04_sub2.sql": {
+        "dev": false,
+        "uat": true,
+        "prod": true
+    },
+    "burgundy-std\\20260505\\20260505_01_add_profile_all_project.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ECT\\20250917\\20250917_00_UPDATE_POOD06_INSERT_POOD07_su_report_label.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ECT\\20250923\\20250923_01_alter_tabel_po_committee_type_lang.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ECT\\20260119\\20260119_01_DROP FUNCTION report_pood09.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ECT\\20260119\\20260119_02_DROP FUNCTION report_pood09_sub.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ECT\\20260119\\20260119_03_INSERT INTO su_program_label_podt09.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ECT\\20260213\\20260213_01_INSERT INTO su_report_label.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ECT\\20260213\\20260213_02_INSERT INTO db_parameter.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ECT\\20260213\\20260213_03_INSERT INTO su_program_label.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ECT\\20260213\\20260213_04_INSERT INTO su_program.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ECT\\20260213\\20260213_05_INSERT INTO su_report_label POOD15.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ECT\\20260216\\20260216_01_INSERT INTO su_program_label.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ECT\\20260216\\20260216_02_UPDATE su_program_label.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ECT\\20260216\\20260216_03_UPDATE su_menu_label.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ECT\\20260216\\20260216_04_UPDATE su_program_label.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ECT\\20260216\\20260216_05_UPDATE su_report_label.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ECT\\20260216\\20260216_06_DROP FUNCTION erp.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ECT\\20260216\\20260216_07_DROP FUNCTION erp.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ECT\\20260216\\20260216_08_DROP FUNCTION erp.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ECT\\20260216\\20260216_09_DROP FUNCTION erp.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ECT\\20260216\\20260216_10_DROP FUNCTION erp.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ECT\\20260216\\20260216_11_DROP FUNCTION erp.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ECT\\20260216\\20260216_12_DROP FUNCTION erp.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ECT\\20260216\\20260216_13_DROP FUNCTION erp.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ECT\\20260216\\20260216_14_DROP FUNCTION erp.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ECT\\20260216\\20260216_15_ALTER TABLE erp.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ECT\\20260218\\20260218_01_report_pood01.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ECT\\20260218\\20260218_02_report_pood02.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ECT\\20260218\\20260218_03_report_pood03.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ECT\\20260218\\20260218_04_report_pood05.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ECT\\20260218\\20260218_05_report_pood06.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ECT\\20260218\\20260218_06_report_pood07.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ECT\\20260218\\20260218_07_report_pood08.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ECT\\20260218\\20260218_08_report_pood09.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ECT\\20260218\\20260218_09_report_pood10.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ECT\\20260218\\20260218_10_report_pood13.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ECT\\20260218\\20260218_11_report_pood14.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ECT\\20260218\\20260218_12_report_pood16.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ECT\\20260218\\20260218_13_report_porp07.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ECT\\20260219\\20260219_01_report_pood02_sub.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ECT\\20260219\\20260219_02_su_program_label_PODT07.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ECT\\20260219\\20260219_03_report_pood05.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ECT\\20260219\\20260219_04_report_pood05.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ECT\\20260219\\20260219_05_report_pood07.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ECT\\20260219\\20260219_06_report_pood11_sub_sign.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ECT\\20260219\\20260219_07_report_pood11.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ECT\\20260219\\20260219_08_report_pood12.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ECT\\20260219\\20260219_09_report_pood12_sub_sign.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ECT\\20260219\\20260219_10_report_pood12_sub_sign.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ECT\\20260219\\20260219_11_report_pood13_sub_sign.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ECT\\20260219\\20260219_12_report_pood09.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ECT\\20260302\\20260302_01_report_po_guaranty_detail.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ECT\\20260302\\20260302_02_report_pood01.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ECT\\20260302\\20260302_03_report_pood02.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ECT\\20260302\\20260302_04_report_pood03.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ECT\\20260302\\20260302_05_report_pood14.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ECT\\20260302\\20260302_06_db_parameter_porp09.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ECT\\20260302\\20260302_07_su_report_label_OD.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ECT\\20260302\\20260302_08_report_porp09.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ECT\\20260302\\20260302_09_report_porp10.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ECT\\20260302\\20260302_10_report_porp12.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ECT\\20260302\\20260302_11_po_format_month_date_thai.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ECT\\20260302\\20260302_12_po_format_date_for_report.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ECT\\20260302\\20260302_13_su_program_rp12-13-14.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ECT\\20260302\\20260302_14_su_program_label_RP12.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ECT\\20260302\\20260302_15_su_report_label_PR12.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ECT\\20260302\\20260302_16_report_porp13.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ECT\\20260302\\20260302_17_su_report_label_RP13.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ECT\\20260302\\20260302_18_su_program_label_RP13.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ECT\\20260302\\20260302_19_report_porp14.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ECT\\20260302\\20260302_20_su_program_label_RP14.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ECT\\20260302\\20260302_21_su_report_label_RP14.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ECT\\20260302\\20260302_22_su_menu.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ECT\\20260302\\20260302_23_su_profile_authorize.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ECT\\20260302\\20260302_24_su_profile_authorize.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ECT\\20260302\\20260302_25_su_profile_authorize.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ECT\\20260305\\20260305_01_su_program_label.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ECT\\20260305\\20260305_02_report_pood16_sub.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ECT\\20260305\\20260305_03_UPDATE su_report_label.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ECT\\20260317\\20260317_01_report_porp09.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ECT\\20260323\\20260323_01_report_pood01.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ECT\\20260323\\20260323_02_report_pood02.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ECT\\20260323\\20260323_03_report_pood03.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ECT\\20260330\\20260330_01_AddCradPoAssign.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ECT\\20260401\\20260401_01_rename program PORP 12-13-14 to 13-14.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ECT\\20260401\\20260401_02_su_program_label PORP12 to PORP13.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ECT\\20260401\\20260401_03_su_program_label PORP13 to PORP14.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ECT\\20260401\\20260401_04_su_program_label PORP14 to PORP15.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ECT\\20260401\\20260401_05_DROP FUNCTION report 12 13 14.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ECT\\20260401\\20260401_06_report_porp12.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ECT\\20260401\\20260401_07_su_report_label PORP14 to PORP15.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ECT\\20260401\\20260401_08_su_report_label PORP13 to PORP14.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ECT\\20260401\\20260401_09_su_report_label PORP12 to PORP13.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ECT\\20260401\\20260401_10_su_report_label PORP12.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ECT\\20260401\\20260401_11_su_program_label PORP12.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ECT\\20260403\\20260403_01_report_pood15_sub.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ECT\\20260403\\20260403_02_report_pood09_sub.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ECT\\20260403\\20260403_03_report_pood08_sub2.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ECT\\20260403\\20260403_04_report_porp04.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ECT\\20260403\\20260403_05_su_report_label_PORP05.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ECT\\20260420\\20260420_01_UPDATE su_user_manual_detail.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ECT\\20260420\\20260420_02_INSERT INTO su_user_manual_detail.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ECT\\20260420\\20260420_03_UPDATE su_program_label_PORT05.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ECT\\20260423\\20260423_01_INSERT INTO db_list_group.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ECT\\20260423\\20260423_02_UPDATE su_program_label.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ECT\\20260423\\20260423_03_INSERT INTO su_program_label.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ECT\\20260428\\20260428_01_su_program_label_add_ElectionName.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ECT\\20260515\\20260515_01_ALTER TABLE po_ms_default_value.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": false
+    },
+    "ERP\\20250905\\20250905_00_SU_N_ALERT.sql": {
+        "dev": true,
+        "uat": false,
+        "prod": false
+    },
+    "ICCS\\20250912\\20250912_db_parameter.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ICCS\\20250915\\20250915_00_DELETE FROM su_program POOR.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ICCS\\20250917\\20250917_00_UPDATE_POOD06_INSERT_POOD07_su_report_label.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ICCS\\20250923\\20250923_01_alter_tabel_po_committee_type_lang.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ICCS\\20251009\\20251009_01_drop function report_pood01;.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ICCS\\20251027\\20251027_01_drop function report_pood13;.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ICCS\\20251027\\20251027_02_drop function report_pood13_sub;.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ICCS\\20251027\\20251027_03_drop function report_pood12;.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ICCS\\20251027\\20251027_04_drop function report_pood12_sub;.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ICCS\\20251103\\20251103_01_NewReport_drop function report_pood32;.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ICCS\\20251103\\20251103_02_NewReport_drop function report_pood32;.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ICCS\\20251103\\20251103_03_INSERT INTO su_program_label.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ICCS\\20251103\\20251103_04_drop function report_pood31;.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ICCS\\20251111\\20251111_01_PORT02_เพิ่มให้กรอก โดยมีอำนาจและหน้าที่.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ICCS\\20251111\\20251111_02_เอกสารแต่งตั้งคณะกรรมการ ให้แสดงดังนี้ drop function report_pood32;.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ICCS\\20251111\\20251111_03_เอกสารแต่งตั้งคณะกรรมการ ให้แสดงดังนี้ drop function report_pood32_sub;.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ICCS\\20251111\\20251111_04_PODT14 เพิ่มแสดงข้อมูล จึงเรียนมาเพื่อโปรดพิจารณา_drop function report_pood31;.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ICCS\\20251112\\20251112_01_ใบรับคืนหลักประกันทั้ง 3 ใบ แก้ Label_UPDATE su_report_label.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ICCS\\20251112\\20251112_02_เอกสารประกาศผู้ชนะ_drop function report_pood30;.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ICCS\\20251112\\20251112_03_เปลี่ยน concept การอนุมัติ - Bass_drop function report_pood01;.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ICCS\\20251112\\20251112_04_เปลี่ยน concept การอนุมัติ - Bass_drop function get_report_po_approve;.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ICCS\\20251112\\20251112_05_เปลี่ยน concept การอนุมัติ - Bass_drop function report_pood02;.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ICCS\\20251112\\20251112_06_เปลี่ยน concept การอนุมัติ - Bass_drop function report_pood03;.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ICCS\\20251112\\20251112_07_เปลี่ยน concept การอนุมัติ - Bass_drop FUNCTION report_pood04;.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ICCS\\20251112\\20251112_08_เปลี่ยน concept การอนุมัติ - Bass_drop function report_pood05;.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ICCS\\20251112\\20251112_09_เปลี่ยน concept การอนุมัติ - Bass_drop function report_pood32;.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ICCS\\20251112\\20251112_10_เปลี่ยน concept การอนุมัติ - Bass_drop function get_report_po_approve_pood.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ICCS\\20251112\\20251112_11_เปลี่ยน concept การอนุมัติ - Bass_drop function report_pood31;.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ICCS\\20251114\\20251114_01_insert_su_program_poqy01.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ICCS\\20251114\\20251114_02_su_profile_authorize_poqy01.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ICCS\\20251114\\20251114_03_su_menu_poqy01.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ICCS\\20251114\\20251114_04_su_profile_menu_poqy01.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ICCS\\20251114\\20251114_05_su_program_label_poqy01.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ICCS\\20251114\\20251114_06_drop function report_pood10;.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ICCS\\20251117\\20251117_01_drop function report_pood33;.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ICCS\\20251118\\20251118_01_PODT11 เพิ่มเอกสารใบเบิก_INSERT INTO su_program.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ICCS\\20251118\\20251118_02_PORP10_INSERT INTO su_program.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ICCS\\20251118\\20251118_03_PORP10_drop function report_porp10;.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ICCS\\20251119\\20251119_01_แก้จำนวนเงิน gs_aft_disc drop function report_pood02;.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ICCS\\20251119\\20251119_02_INSERT INTO su_program porp09.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ICCS\\20251119\\20251119_03_INSERT INTO su_program_label porp09.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ICCS\\20251119\\20251119_04_INSERT INTO su_profile_menu porp09.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ICCS\\20251119\\20251119_05_INSERT INTO su_report_label porp09.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ICCS\\20251119\\20251119_06_CREATE OR REPLACE FUNCTION erp porp09.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ICCS\\20251119\\20251119_07_INSERT INTO su_menu_PORP10.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ICCS\\20251119\\20251119_08_su_profile_authorize_su_profile_menu_PORP10.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ICCS\\20251119\\20251119_09_drop function get_report_po_approve;.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ICCS\\20251119\\20251119_10_drop function report_pood34;.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ICCS\\20251119\\20251119_11_UPDATE db_list_value PODT08.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ICCS\\20251120\\20251120_01_drop function report_pood32;.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ICCS\\20251120\\20251120_02_drop function get_report_po_approve_pood.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ICCS\\20251120\\20251120_03_drop function report_pood32;.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ICCS\\20251120\\20251120_04_drop function report_pood33;.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ICCS\\20251120\\20251120_05_drop function report_pood34;.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ICCS\\20251120\\20251120_06_PermissionDashbordPO_INSERT INTO db_parameter.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ICCS\\20251120\\20251120_07_PORT12_INSERT INTO su_program_label.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ICCS\\20251120\\20251120_08_drop function report_pood30;.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ICCS\\20251121\\20251121_01_drop FUNCTION report_pood10;.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ICCS\\20251124\\20251124_01_drop function get_report_po_approve;.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ICCS\\20251124\\20251124_02_drop function get_report_po_approve_pood.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ICCS\\20251125\\20251125_01_UPDATE su_report_label.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ICCS\\20251125\\20251125_02_drop function report_pood33;.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ICCS\\20251125\\20251125_03_drop function report_pood33;.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ICCS\\20251125\\20251125_04_drop function report_pood30;.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ICCS\\20251125\\20251125_05_POOD33_INSERT INTO su_report_label.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ICCS\\20251128\\20251128_01_แก้ใบ PQ และ PR ให้แสดงกิจกรรมทั้งหมด drop function report_pood01;.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ICCS\\20251128\\20251128_02_แก้ใบ PQ และ PR ให้แสดงกิจกรรมทั้งหมด drop function report_pood01_sub_detail;.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ICCS\\20251128\\20251128_03_แก้ใบ PQ และ PR ให้แสดงกิจกรรมทั้งหมด drop function report_pood01_sub;.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ICCS\\20251128\\20251128_04_แก้ใบ PQ และ PR ให้แสดงกิจกรรมทั้งหมด drop function report_pood02;.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ICCS\\20251128\\20251128_05_แก้ใบ PQ และ PR ให้แสดงกิจกรรมทั้งหมด drop function report_pood02_sub;.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ICCS\\20251128\\20251128_06_แก้ใบ PQ และ PR ให้แสดงกิจกรรมทั้งหมด drop function report_pood02_sub_detail;.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ICCS\\20251201\\20251201_01_POOD02_INSERT INTO su_report_label.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ICCS\\20251201\\20251201_02_แก้ไขแบบฟอร์มใบตรวจรับพัสด เพิ่มแสดง_drop function report_pood10;.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ICCS\\20251201\\20251201_03_6.ใบตรวจรับการจัดซื้อจัดจ้าง_pood09;.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ICCS\\20251201\\20251201_04_POOD09_detail1_PO_CO_INSERT INTO su_report_label.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ICCS\\20251201\\20251201_05_7.ใบสั่ั่งซื้อสั่งจ้าง ที่อยู่ผู้ขาย ลบคำว่าหมู่บ้านออก_drop function po_get_full_address;.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ICCS\\20251201\\20251201_06_ราคาไม่รวมภาษีมูลค่าเพิ่ม_UPDATE su_report_label.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ICCS\\20251201\\20251201_07_POOD03_CREATE OR REPLACE FUNCTION erp.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ICCS\\20251201\\20251201_08_POOD04_CREATE OR REPLACE FUNCTION erp.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ICCS\\20251201\\20251201_09_POOD05_CREATE OR REPLACE FUNCTION erp.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ICCS\\20251201\\20251201_10_PoWorkFlowOnReport_INSERT INTO su_program_label.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ICCS\\20251201\\20251201_11_drop function get_report_po_approve;.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ICCS\\20251212\\20251212_01_-- drop function report_porp11_sub;.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ICCS\\20251212\\20251212_02_-- DROP FUNCTION erp.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ICCS\\20251212\\20251212_03_INSERT INTO su_program.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ICCS\\20251222\\20251222_01_Add_remark_INSERT INTO su_report_label.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ICCS\\20251222\\20251222_02_Add_remark_pood03.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ICCS\\20251222\\20251222_03_Add_remark_pood04.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ICCS\\20251222\\20251222_04_Add_remark_pood05.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ICCS\\20260106\\20260106_01_INSERT INTO su_profile_menu.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ICCS\\20260206\\20260206_01_report_pood31.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ICCS\\20260206\\20260206_02_report_pood31_sub.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ICCS\\20260407\\20260407_01_report_pood01.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ICCS\\20260407\\20260407_02_report_pood31.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "ICCS\\20260407\\20260407_03_INSERT INTO su_program_label_PoWorkFlow.ActingFor.sql": {
+        "dev": false,
+        "uat": false,
+        "prod": true
+    },
+    "ICCS\\20260407\\20260407_04_get_report_po_approve.sql": {
+        "dev": false,
+        "uat": false,
+        "prod": true
+    },
+    "ICCS\\20260407\\20260407_05_get_report_po_approve_pood32.sql": {
+        "dev": false,
+        "uat": false,
+        "prod": true
+    },
+    "NPRU\\20250904\\20250904_00_db_list_value_lang.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "NPRU\\20250915\\20250915_00_DELETE FROM su_program POOR.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "NPRU\\20250915\\20250915_01_function_get_product_name.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "NPRU\\20250917\\20250917_00_UPDATE_POOD06_INSERT_POOD07_su_report_label.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "NPRU\\20250917\\20250917_01_drop function report_pood07;.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "NPRU\\20250922\\20250922_00_drop function report_porp01;.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "NPRU\\20250922\\20250922_01_drop function report_porp02;.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "NPRU\\20250922\\20250922_02_drop function report_porp03;.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "NPRU\\20250922\\20250922_03_drop function report_porp04;.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "NPRU\\20250922\\20250922_06_drop function report_porp05;.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "NPRU\\20250923\\20250923_01_alter_tabel_po_committee_type_lang.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "NPRU\\20251003\\20251003_01_INSERT_su_program_POOD12.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "NPRU\\20251003\\20251003_02_INSERT INTO su_report_label_POOD12.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "NPRU\\20251003\\20251003_03_INSERT INTO su_program_label_PODT04.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "NPRU\\20251003\\20251003_04_report_pood12.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "NPRU\\20251003\\20251003_05_CREATE OR REPLACE FUNCTION report_pood12_sub.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "NPRU\\20251003\\20251003_06_drop function report_pood02; แก้วันที่ไปใช้ report_date.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "NPRU\\20251009\\20251009_01_drop function report_pood01;.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "NPRU\\20251020\\20251020_01_PODT04_INSERT INTO su_program_label.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "NPRU\\20251020\\20251020_02_po_pr_master_ALTER TABLE erp.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "NPRU\\20251024\\20251024_01_INSERT INTO su_report_label_POOD12.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "NPRU\\20251024\\20251024_02_drop function report_pood12;.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "NPRU\\20251028\\20251028_01_เพิ่มแสดงรายละเอียด เหมือน PGVIM_drop function report_pood03;.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "NPRU\\20251028\\20251028_02_เพิ่มแสดงรายละเอียด เหมือน PGVIMdrop function report_pood04;.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "NPRU\\20251028\\20251028_03_เพิ่มแสดงรายละเอียด เหมือน PGVIMdrop function report_pood05;.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "NPRU\\20251106\\20251105_01_where_active_drop function report_porp06;.sql": {
+        "dev": false,
+        "uat": false,
+        "prod": true
+    },
+    "NPRU\\20251119\\20251119_01_(ALL_Project)drop function po_format_date_thai;.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "NPRU\\20260324\\20260324_01_report_pood09.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "PGVIM\\20250912\\20250912_db_parameter.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "PGVIM\\20250915\\20250915_00_DELETE FROM su_profile_menu.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "PGVIM\\20250915\\20250915_01_DELETE FROM su_menu.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "PGVIM\\20250915\\20250915_02_DELETE FROM su_program POOR.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "PGVIM\\20250916\\20250916_00_migrage_INSERT INTO po_service.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "PGVIM\\20250916\\20250916_01_migrage_INSERT INTO po_service_lang.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "PGVIM\\20250917\\20250917_00_drop function report_pood07;.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "PGVIM\\20250917\\20250917_01_UPDATE_POOD06_INSERT_POOD07_su_report_label.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "PGVIM\\20250923\\20250923_01_alter_tabel_po_committee_type_lang.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "PGVIM\\20251009\\20251009_01_drop function report_pood01;.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "PGVIM\\20251010\\20251010_00 drop function report_pood12 ,13, 14, 15;.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "PGVIM\\20251010\\20251010_01_INSERT INTO su_program porp09.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "PGVIM\\20251010\\20251010_02_INSERT INTO su_program_label porp09.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "PGVIM\\20251010\\20251010_03_INSERT INTO su_profile_menu porp09.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "PGVIM\\20251010\\20251010_04_INSERT INTO su_report_label porp09.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "PGVIM\\20251010\\20251010_05_CREATE OR REPLACE FUNCTION erp porp09.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "PGVIM\\20251010\\20251010_06_UPDATE su_report_label porp01.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "PGVIM\\20251014\\20251014_01_insert_su_program_poqy01.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "PGVIM\\20251014\\20251014_02_su_profile_authorize_poqy01.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "PGVIM\\20251014\\20251014_03_su_menu_poqy01.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "PGVIM\\20251014\\20251014_04_su_profile_menu_poqy01.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "PGVIM\\20251014\\20251014_05_su_program_label_poqy01.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "PGVIM\\20251015\\20251015_01_drop function report_pood12;.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "PGVIM\\20251015\\20251015_02_drop function report_pood13;.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "PGVIM\\20251015\\20251015_03_drpo function report_pood14;.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "PGVIM\\20251015\\20251015_04_drop function report_pood15;.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "PGVIM\\20251015\\20251015_05_drop function report_pood01;.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "PGVIM\\20251015\\20251015_06_drop function report_pood02;.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "PGVIM\\20251015\\20251015_07_po_get_fromat_approve_date.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "PGVIM\\20251015\\20251015_08_drop function report_pood03;.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "PGVIM\\20251015\\20251015_09_drop function report_pood04;.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "PGVIM\\20251015\\20251015_10_drop function report_pood05;.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "PGVIM\\20251015\\20251015_11_drop function report_pood06;.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "PGVIM\\20251015\\20251015_12_drop function report_pood07;.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "PGVIM\\20251015\\20251015_13_drop function report_pood08;.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "PGVIM\\20251016\\20251016_01_drop function report_pood06;.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "PGVIM\\20251016\\20251016_02_drop function report_pood07;.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "PGVIM\\20251016\\20251016_03_drop function report_pood08;.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "PGVIM\\20251016\\20251016_04_drop function report_pood12;.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "PGVIM\\20251016\\20251016_05_drop function report_pood13;.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "PGVIM\\20251016\\20251016_06_drop function report_pood14;.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "PGVIM\\20251016\\20251016_07_drop function report_pood15;.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "PGVIM\\20251017\\20251017_01_drop function report_pood02;.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "PGVIM\\20251017\\20251017_02_INSERT INTO su_report_label.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "PGVIM\\20251017\\20251017_03_INSERT INTO db_list_value.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "PGVIM\\20251017\\20251017_04_UPDATE db_list_value.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "PGVIM\\20251020\\20251020_01_INSERT INTO su_menu_aprp07.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "PGVIM\\20251020\\20251020_02_su_profile_menu_aprp07.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "PGVIM\\20251020\\20251020_03_get full_name ap_member report_pood02.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "PGVIM\\20251020\\20251020_04_get full_name ap_member report_pood03.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "PGVIM\\20251020\\20251020_05_get full_name ap_member report_pood04.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "PGVIM\\20251020\\20251020_06_get full_name ap_member report_pood05.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "PGVIM\\20251020\\20251020_07_drop function report_pood09;--get full_n.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "PGVIM\\20251020\\20251020_08_drop function report_pood10;--get full_n.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "PGVIM\\20251020\\20251020_09_drop function report_pood16;--get full_n.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "PGVIM\\20251020\\20251020_10_drop function report_pood17;--get full_n.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "PGVIM\\20251020\\20251020_11_drop function report_pood18;--get full_n.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "PGVIM\\20251020\\20251020_12_drop function report_pood19;--get full_n.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "PGVIM\\20251020\\20251020_13_drop function report_pood21;--get full_n.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "PGVIM\\20251024\\20251024_01_edit_group_atv_drop function report_pood01;.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "PGVIM\\20251024\\20251024_02_edit_group_atv_drop function report_pood02;.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "PGVIM\\20251024\\20251024_03_edit_purpose_pood12-13-14-15.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "PGVIM\\20251024\\20251024_04_add_f2-3-4_drop function report_pood14;.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "PGVIM\\20251024\\20251024_05_edit_SPLIT_PART_committee_type_name_12-13-14-15-SUB.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "PGVIM\\20251027\\20251027_01_drop function report_pood01_sub_detail;.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "PGVIM\\20251027\\20251027_02_drop function report_pood02_sub_detail;.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "PGVIM\\20251027\\20251027_03_drop function report_pood01_sub;.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "PGVIM\\20251027\\20251027_04_drop function report_pood02_sub;.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "PGVIM\\20251028\\20251028_01_drop function report_pood14;.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "PGVIM\\20251028\\20251028_02_drop function report_pood02_sub_detail;.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "PGVIM\\20251028\\20251028_03_(Prod)drop function report_aprp07;.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "PGVIM\\20251029\\20251029_01_drop function report_pood14;--PGVIM.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "PGVIM\\20251029\\20251029_02_Bug_limit1_drop function report_pood02;.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "PGVIM\\20251031\\20251031_01_(ALL_Project)drop function po_format_date_thai;.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "PGVIM\\20251031\\20251031_02_POOD10_drop function report_pood10;.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "PGVIM\\20251031\\20251031_03_su_report_label_POOD31.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "PGVIM\\20251111\\20251111_01_drop function report_pood09;.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "PGVIM\\20251112\\20251112_01_UPDATE su_report_label.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "PGVIM\\20251112\\20251112_02_แสดง เลขที่เอกสารที่อ้างอิงมาตรวจรับ_INSERT INTO su_report_label.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "PGVIM\\20251112\\20251112_03_[PGVIM] แสดง เลขที่เอกสารที่อ้างอิงมาตรวจรับ POOD09.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "PGVIM\\20251113\\20251113_01_เอาหมู่บ้านออก_drop function po_get_full_address;.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "PGVIM\\20251113\\20251113_02_แก้ แสดงวันที่ใบPOรอบ2_drop function report_pood09;.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "PGVIM\\20251113\\20251113_03_แก้ใบตรวจรับ_pood10_drop function report_pood10;.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "PGVIM\\20251113\\20251113_04_drop function report_pood10;.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "PGVIM\\20251114\\20251114_01_POQY01_UPDATE su_program_label.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "PGVIM\\20251117\\20251117_01_drop function report_pood02_sub2;.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "PGVIM\\20251117\\20251117_02_INSERT INTO su_report_label.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "PGVIM\\20251117\\20251117_03_drop function report_pood02;.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "PGVIM\\20251117\\20251117_04_CREATE OR REPLACE FUNCTION erpPOOD03.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "PGVIM\\20251117\\20251117_04_drop function report_pood05;.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "PGVIM\\20251117\\20251117_05_CREATE OR REPLACE FUNCTION erpPOOD04.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "PGVIM\\20251118\\20251118_01_drop function report_pood02_sub2;.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "PGVIM\\20251118\\20251118_02_drop function report_pood02_sub_detail;.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "PGVIM\\20251119\\20251119_01_แก้ รวมเป็นเงินทั้งสิ้น drop function report_pood02_sub_detail;.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "PGVIM\\20251119\\20251119_02_UPDATE su_report_label POOD03 04 05.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "PGVIM\\20251119\\20251119_03_drop function report_pood03;.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "PGVIM\\20251119\\20251119_04_drop FUNCTION report_pood04;.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "PGVIM\\20251119\\20251119_05_drop function report_pood05;.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "PGVIM\\20251120\\20251120_01_เพิ่มset_drop function report_pood03_sub_detail;.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "PGVIM\\20251120\\20251120_02_เพิ่มset_drop function report_pood04_sub_detail;.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "PGVIM\\20251120\\20251120_03_เพิ่ม set_drop function report_pood05_sub_detail;.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "PGVIM\\20251120\\20251120_04_su_report_label_Detail.set.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "PGVIM\\20251121\\20251121_01_drop function report_pood03_sub_detail;.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "PGVIM\\20251121\\20251121_02_drop function report_pood04_sub_detail;.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "PGVIM\\20251121\\20251121_03_drop function report_pood05_sub_detail;.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "PGVIM\\20251202\\20251202_01_drop function report_pood12;.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "PGVIM\\20251202\\20251202_02_drop function report_pood13;.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "PGVIM\\20251202\\20251202_03_drop function report_pood14;.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "PGVIM\\20251202\\20251202_04_drop function report_pood15;.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "PGVIM\\20251204\\20251204_01_drop function report_pood09;.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "PGVIM\\20251208\\20251205_05_คณะกรรมการพิจารณาผลการประกวดราคาอิเล็กทรอนิกส์_drop function report_pood15;.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "PGVIM\\20251208\\20251208_01_PrintReportCommittee_su_program_label.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "PGVIM\\20251208\\20251208_02_แต่งตั้งคณะกรรมการตรวจรับพัสดุ_drop function report_pood12;.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "PGVIM\\20251208\\20251208_03_แต่งตั้งคณะกรรมการการจัดทำร่างขอบเขตงาน_drop function report_pood13;.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "PGVIM\\20251208\\20251208_04_คณะกรรมการ การจัดซื้อจัดจ้าง_drop function report_pood14;.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "PGVIM\\20251208\\20251208_05_drop function report_pood01;.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "PGVIM\\20251208\\20251208_06_drop function report_pood02;.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "PGVIM\\20251209\\20251209_01_POOD09_DROP FUNCTION erp.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "PGVIM\\20251211\\20251211_01_แต่งตั้งคณะกรรมการการจัดทำร่างขอบเขตงาน_drop function report_pood13;.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "PGVIM\\20251211\\20251211_02_คณะกรรมการพิจารณาผลการประกวดราคาอิเล็กทรอนิกส์_drop function report_pood15;.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "PGVIM\\20251211\\20251211_03_แต่งตั้งคณะกรรมการตรวจรับพัสดุ_drop function report_pood12;.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "PGVIM\\20251211\\20251211_04_คณะกรรมการ การจัดซื้อจัดจ้าง_drop function report_pood14;.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "PGVIM\\20251216\\20251216_01_POOD10_INSERT INTO su_report_label.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "PGVIM\\20251216\\20251216_02_report_pood10_DROP FUNCTION erp.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "PGVIM\\20251222\\20251222_01_DROP FUNCTION erp_report_pood10.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "PGVIM\\20251222\\20251222_02_report_pood02_sub_detail.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "PGVIM\\20260107\\20260107_01_report_pood09_add is_compliant.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "PGVIM\\20260123\\20260123_01_report_pood03_sub_detail.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "PGVIM\\20260123\\20260123_02_report_pood04_sub_detail.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "PGVIM\\20260123\\20260123_03_report_pood05_sub_detail.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "PGVIM\\20260204\\20260204_01_drop function report_porp07;.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "PGVIM\\20260205\\20260205_01_PORP07_add_status_DROP FUNCTION erp.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "PGVIM\\20260205\\20260205_02_add_status_INSERT INTO su_report_label.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "PGVIM\\20260318\\20260318_01_su_report_label.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "PGVIM\\20260318\\20260318_02_report_pood10.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "PGVIM\\20260318\\20260318_03_report_pood09.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "PGVIM\\20260323\\20260323_01_db_list_group.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "PGVIM\\20260323\\20260323_02_report_porp07.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "PGVIM\\20260407\\20260407_01_report_porp07_show_sub_product_name.sql": {
+        "dev": true,
+        "uat": true,
+        "prod": true
+    },
+    "PGVIM\\20260423\\20260423_01_su_report_label.sql": {
+        "dev": false,
+        "uat": true,
+        "prod": false
+    },
+    "PGVIM\\20260423\\20260423_02_report_porp07_add_doc_type_name.sql": {
+        "dev": false,
+        "uat": true,
+        "prod": false
+    },
+    "SKC\\20250825_00_DoaJL(shared).sql": {
+        "dev": true,
+        "uat": false,
+        "prod": false
+    },
+    "SKC\\20250825_01_DoaJLAuthorize(shared).sql": {
+        "dev": true,
+        "uat": false,
+        "prod": false
+    },
+    "SKC\\20250825_02_DoaPL(shared).sql": {
+        "dev": true,
+        "uat": false,
+        "prod": false
+    },
+    "SKC\\20250825_03_DoaPLAuthorize(shared).sql": {
+        "dev": true,
+        "uat": false,
+        "prod": false
+    },
+    "SKC\\20250828_04_Update_DbDocStatus.sql": {
+        "dev": true,
+        "uat": false,
+        "prod": false
+    },
+    "SKC\\20251016\\20251016_01_UPDATE_SuSystemConfigurationAll(shared).sql": {
+        "dev": true,
+        "uat": false,
+        "prod": false
+    },
+    "SKC\\20251016\\20251016_02_UPDATE_SuSystemConfigurationAll(shared)_Prod.sql": {
+        "dev": true,
+        "uat": false,
+        "prod": false
+    },
+    "SKC\\20251107\\20251107_01_UPDATE_SuProgramDetLang_SKEXRP09.sql": {
+        "dev": true,
+        "uat": false,
+        "prod": false
+    },
+    "SKC\\20251127\\20251127_01_ALTER TABLE SrcDocumentParticipants.sql": {
+        "dev": true,
+        "uat": false,
+        "prod": false
+    },
+    "SKC\\20251223\\20251223_01_SuSystemConfigurationAll(shared).sql": {
+        "dev": true,
+        "uat": false,
+        "prod": false
+    },
+    "SKC\\20251223\\20251223_02_ALTER_TABLE_SrcDocumentParticipants.sql": {
+        "dev": true,
+        "uat": false,
+        "prod": false
+    },
+    "SKC\\20260129\\20260129_01_INSERT INTO SuSystemConfigurationAll(shared).sql": {
+        "dev": true,
+        "uat": false,
+        "prod": false
+    }
+}
