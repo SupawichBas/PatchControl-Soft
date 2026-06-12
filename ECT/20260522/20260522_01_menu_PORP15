@@ -1,0 +1,12 @@
+INSERT INTO su_profile_menu
+(profile_code, menu_code, created_by, created_date, created_program, updated_by, updated_date, updated_program)
+VALUES('PO_REQUESTER', '2505PO150004', 'Script', '2025-09-23 16:00:33.509', 'Migrate_MenuPO_20250923', NULL, NULL, NULL);
+
+
+
+INSERT INTO su_profile_authorize
+(profile_code, program_code, authorize_code, created_by, created_date, created_program, updated_by, updated_date, updated_program)
+VALUES('PO_ALL', 'PORP15', 'Print', 'admin', '2026-05-22 15:25:56.510', 'SUMT04', 'admin', '2026-05-22 15:25:56.510', 'SUMT04');
+INSERT INTO su_profile_authorize
+(profile_code, program_code, authorize_code, created_by, created_date, created_program, updated_by, updated_date, updated_program)
+VALUES('PO_ALL', 'PORP15', 'View', 'admin', '2026-05-22 15:25:56.510', 'SUMT04', 'admin', '2026-05-22 15:25:56.510', 'SUMT04');
